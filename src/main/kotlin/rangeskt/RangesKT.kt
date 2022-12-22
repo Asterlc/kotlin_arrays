@@ -1,0 +1,4 @@
+package rangeskt
+
+class RangesKT {
+}

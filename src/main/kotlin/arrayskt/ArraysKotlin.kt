@@ -1,0 +1,4 @@
+package arrayskt
+
+class ArraysKotlin {
+}
